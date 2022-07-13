@@ -1,8 +1,6 @@
 {
    "convocados":[
-   
-  
-{"comunicado":"Residência Médica 2007","primeiravalidade":"2007-10-18T00:00:00","prorrogadoate":"2006-10-31T00:00:00","aprovados":1225,"convocados":325,"pcd":305},
+      {"comunicado":"Residência Médica 2007","primeiravalidade":"2007-10-18T00:00:00","prorrogadoate":"2006-10-31T00:00:00","aprovados":1225,"convocados":325,"pcd":305},
 {"comunicado":"Residência Médica 2007 - Áreas","primeiravalidade":"2007-10-18T00:00:00","prorrogadoate":"2006-10-31T00:00:00","aprovados":110,"convocados":160,"pcd":140},
 {"comunicado":"Residência Médica 2007 - Espec","primeiravalidade":"2007-10-18T00:00:00","prorrogadoate":"2006-10-31T00:00:00","aprovados":366,"convocados":160,"pcd":140},
 {"comunicado":"Aprimoramento Profissional não","primeiravalidade":"2007-12-09T00:00:00","prorrogadoate":"2006-12-15T00:00:00","aprovados":52,"convocados":60,"pcd":40},
@@ -19,7 +17,6 @@
 {"comunicado":"AUXILIAR DE TRABALHO CIENTIFIC","primeiravalidade":"2008-03-08T00:00:00","prorrogadoate":"2007-03-23T00:00:00","aprovados":53,"convocados":32,"pcd":12},
 {"comunicado":"AUXILIAR DE FARMACEUTICO","primeiravalidade":"2008-03-08T00:00:00","prorrogadoate":"2007-03-16T00:00:00","aprovados":128,"convocados":32,"pcd":12},
 {"comunicado":"TECNICO DE RADIOLOGIA para atu","primeiravalidade":"2008-03-14T00:00:00","prorrogadoate":"2007-03-23T00:00:00","aprovados":97,"convocados":32,"pcd":12},
-{"comunicado":"MEDICO PARA ATUAR JUNTO AO CEN","primeiravalidade":"2008-04-04T00:00:00","prorrogadoate":"2007-04-13T00:00:00","aprovados":1,"convocados":47,"pcd":27},
 {"comunicado":"MÉDICO - HEMATOLOGIA-HEMOTERAP","primeiravalidade":"2008-04-27T00:00:00","prorrogadoate":"2007-05-09T00:00:00","aprovados":2,"convocados":47,"pcd":27},
 {"comunicado":"MEDICO ONCOLOGIA CLÍNICA","primeiravalidade":"2008-05-03T00:00:00","prorrogadoate":"2007-05-11T00:00:00","aprovados":1,"convocados":47,"pcd":27},
 {"comunicado":"ANALISTA DE SISTEMAS - 2007","primeiravalidade":"2008-05-03T00:00:00","prorrogadoate":"2007-05-11T00:00:00","aprovados":73,"convocados":47,"pcd":27},
