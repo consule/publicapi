@@ -1,6 +1,8 @@
 {
    "convocados":[
-      {"comunicado":"Residência Médica 2007","primeiravalidade":"2007-10-18T00:00:00","prorrogadoate":"2006-10-31T00:00:00","aprovados":1225,"convocados":325,"pcd":305},
+   
+  
+{"comunicado":"Residência Médica 2007","primeiravalidade":"2007-10-18T00:00:00","prorrogadoate":"2006-10-31T00:00:00","aprovados":1225,"convocados":325,"pcd":305},
 {"comunicado":"Residência Médica 2007 - Áreas","primeiravalidade":"2007-10-18T00:00:00","prorrogadoate":"2006-10-31T00:00:00","aprovados":110,"convocados":160,"pcd":140},
 {"comunicado":"Residência Médica 2007 - Espec","primeiravalidade":"2007-10-18T00:00:00","prorrogadoate":"2006-10-31T00:00:00","aprovados":366,"convocados":160,"pcd":140},
 {"comunicado":"Aprimoramento Profissional não","primeiravalidade":"2007-12-09T00:00:00","prorrogadoate":"2006-12-15T00:00:00","aprovados":52,"convocados":60,"pcd":40},
@@ -29,26 +31,6 @@
 {"comunicado":"Médico na área de Clínica Médi","primeiravalidade":"2008-07-12T00:00:00","prorrogadoate":"2007-07-20T00:00:00","aprovados":25,"convocados":47,"pcd":27},
 {"comunicado":"Médico Pediatria - Neonatologi","primeiravalidade":"2008-07-19T00:00:00","prorrogadoate":"2007-08-03T00:00:00","aprovados":10,"convocados":47,"pcd":27},
 {"comunicado":"TECNICO DE LABORATÓRIO - LABOR","primeiravalidade":"2008-08-03T00:00:00","prorrogadoate":"2007-08-10T00:00:00","aprovados":80,"convocados":32,"pcd":12},
-{"comunicado":"Aprimoramento Profissional não","primeiravalidade":"2007-11-01T00:00:00","prorrogadoate":"2006-11-16T00:00:00","aprovados":537,"convocados":60,"pcd":40},
-{"comunicado":"MEDICO GINECOLOGIA E OBSTETRIC","primeiravalidade":"2008-06-27T00:00:00","prorrogadoate":"2007-07-06T00:00:00","aprovados":13,"convocados":47,"pcd":27},
-{"comunicado":"Médico para atuar no Centro de","primeiravalidade":"2008-07-05T00:00:00","prorrogadoate":"2007-07-20T00:00:00","aprovados":16,"convocados":47,"pcd":27},
-{"comunicado":"Médico na área de Hematologia-","primeiravalidade":"2008-08-03T00:00:00","prorrogadoate":"2007-08-17T00:00:00","aprovados":10,"convocados":47,"pcd":27},
-{"comunicado":"Oficial de Serviços e Manutenç","primeiravalidade":"2008-08-03T00:00:00","prorrogadoate":"2007-08-10T00:00:00","aprovados":241,"convocados":8,"pcd":-12},
-{"comunicado":"Auxiliar de Serviços","primeiravalidade":"2013-01-15T13:00:00","prorrogadoate":"2007-08-10T00:00:00","aprovados":4626,"convocados":8,"pcd":-12},
-{"comunicado":"Médico na área de Ortopedia Pe","primeiravalidade":"2008-08-03T00:00:00","prorrogadoate":"2007-08-17T00:00:00","aprovados":1,"convocados":47,"pcd":27},
-{"comunicado":"AUXILIAR DE TRABALHO CIENTÍFIC","primeiravalidade":"2008-08-03T00:00:00","prorrogadoate":"2007-08-10T00:00:00","aprovados":94,"convocados":32,"pcd":12},
-{"comunicado":"AUXILIAR DE FARMACÊUTICO","primeiravalidade":"2008-08-10T00:00:00","prorrogadoate":"2007-08-17T00:00:00","aprovados":157,"convocados":32,"pcd":12},
-{"comunicado":"FISIOTERAPEUTA","primeiravalidade":"2008-08-10T00:00:00","prorrogadoate":"2007-08-24T00:00:00","aprovados":228,"convocados":47,"pcd":27},
-{"comunicado":"Médico na área de Neurocirurgi","primeiravalidade":"2008-08-10T00:00:00","prorrogadoate":"2007-08-17T00:00:00","aprovados":3,"convocados":47,"pcd":27},
-{"comunicado":"MÉDICO NA ÁREA DE PEDIATRIA - ","primeiravalidade":"2008-08-17T00:00:00","prorrogadoate":"2007-08-22T00:00:00","aprovados":3,"convocados":47,"pcd":27},
-{"comunicado":"Ascensorista","primeiravalidade":"2008-08-17T00:00:00","prorrogadoate":"2007-08-24T00:00:00","aprovados":2683,"convocados":8,"pcd":-12},
-{"comunicado":"Físico","primeiravalidade":"2008-08-17T00:00:00","prorrogadoate":"2007-08-31T00:00:00","aprovados":16,"convocados":47,"pcd":27},
-{"comunicado":"Telefonista","primeiravalidade":"2008-08-24T00:00:00","prorrogadoate":"2007-08-31T00:00:00","aprovados":4156,"convocados":8,"pcd":-12},
-{"comunicado":"Médico Intensivista - Neurocir","primeiravalidade":"2008-09-21T00:00:00","prorrogadoate":"2007-09-28T00:00:00","aprovados":5,"convocados":47,"pcd":27},
-{"comunicado":"Médico Fisiatra - Outubro-2007","primeiravalidade":"2008-09-28T00:00:00","prorrogadoate":"2007-10-05T00:00:00","aprovados":null,"convocados":47,"pcd":27},
-{"comunicado":"Residência Médica 2008","primeiravalidade":"2008-10-05T00:00:00","prorrogadoate":"2007-10-31T00:00:00","aprovados":1277,"convocados":340,"pcd":320},
-{"comunicado":"Residência Médica 2008 - Espec","primeiravalidade":"2008-10-05T00:00:00","prorrogadoate":"2007-10-31T00:00:00","aprovados":444,"convocados":170,"pcd":150},
-{"comunicado":"Residência Médica 2008 - Áreas","primeiravalidade":"2008-10-05T00:00:00","prorrogadoate":"2007-10-31T00:00:00","aprovados":89,"convocados":170,"pcd":150},
-{"comunicado":"Almoxarife","primeiravalidade":"2008-10-11T00:00:00","prorrogadoate":"2007-10-19T00:00:00","aprovados":161,"convocados":32,"pcd":12}
+{"comunicado":"Aprimoramento Profissional não","primeiravalidade":"2007-11-01T00:00:00","prorrogadoate":"2006-11-16T00:00:00","aprovados":537,"convocados":60,"pcd":40}
    ]
 }
