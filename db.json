@@ -232,5 +232,13 @@
          "convocados":60,
          "pcd":40
       }
+   ],
+   "processosseletivos": [
+      {
+         "comunicado": "ARQUITETO"
+      },
+      {
+         "comunicado": "AUXILIAR DE SERVICOS GERAIS"
+      }
    ]
 }
