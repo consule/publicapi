@@ -249,7 +249,7 @@
       {
          "comunicado": "GESSEIRO"
       }
-   ],
+   
     ],
    "planos": [
      {"id": "1", "valor": "99.99", "periodo": "12", "descricao": "Musculação", "idSituacao": 1, "periodoTipo": 1, "dataCadastro": "2022-07-20 20:50:43.000000", "taxaMatricula": "19.99"},
