@@ -254,6 +254,7 @@
    "planos": [
    {
       "id":"1",
+       "Descricao":"musculaçao",
       "Valor":"99.99",
       "Periodo":"12",
       "Descricao":"Ativo",
@@ -263,6 +264,7 @@
    },
    {
       "id":"2",
+      "Descricao":"musculaçao",
       "Valor":"79.99",
       "Periodo":"1",
       "Descricao":"Ativo",
@@ -272,6 +274,7 @@
    },
    {
       "id":"3",
+      "Descricao":"musculaçao",
       "Valor":"79.99",
       "Periodo":"1",
       "Descricao":"Ativo",
@@ -281,6 +284,7 @@
    },
    {
       "id":"4",
+      "Descricao":"musculaçao",
       "Valor":"20.00",
       "Periodo":"1",
       "Descricao":"Ativo",
@@ -290,6 +294,7 @@
    },
    {
       "id":"7",
+      "Descricao":"musculaçao",
       "Valor":"200.00",
       "Periodo":"3",
       "Descricao":"Inativo",
@@ -299,6 +304,7 @@
    },
    {
       "id":"8",
+      "Descricao":"musculaçao",
       "Valor":"1999.99",
       "Periodo":"36",
       "Descricao":"Ativo",
@@ -308,6 +314,7 @@
    },
    {
       "id":"9",
+      "Descricao":"musculaçao",
       "Valor":"199.99",
       "Periodo":"6",
       "Descricao":"Ativo",
