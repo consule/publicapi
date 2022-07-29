@@ -252,13 +252,68 @@
    
     ],
    "planos": [
-     {"id": "1", "valor": "99.99", "periodo": "12", "descricao": "Musculação", "idSituacao": 1, "periodoTipo": 1, "dataCadastro": "2022-07-20 20:50:43.000000", "taxaMatricula": "19.99"},
-{"id": "2", "valor": "79.99", "periodo": "1", "descricao": "Zumba", "idSituacao": 1, "periodoTipo": 1, "dataCadastro": "2022-07-20 20:50:43.000000", "taxaMatricula": "19.99"},
-{"id": "3", "valor": "79.99", "periodo": "1", "descricao": "Funcional", "idSituacao": 1, "periodoTipo": 1, "dataCadastro": "2022-07-20 20:50:43.000000", "taxaMatricula": "19.99"},
-{"id": "4", "valor": "20.00", "periodo": "1", "descricao": "Diária", "idSituacao": 1, "periodoTipo": 0, "dataCadastro": "2022-07-20 20:50:43.000000", "taxaMatricula": "0.00"},
-{"id": "7", "valor": "200.00", "periodo": "3", "descricao": "judo", "idSituacao": 2, "periodoTipo": 1, "dataCadastro": "2022-07-20 20:50:43.000000", "taxaMatricula": "0.00"},
-{"id": "8", "valor": "1999.99", "periodo": "36", "descricao": "Total", "idSituacao": 1, "periodoTipo": 1, "dataCadastro": "2022-07-20 20:50:43.000000", "taxaMatricula": "0.00"},
-{"id": "9", "valor": "199.99", "periodo": "6", "descricao": "Semestral", "idSituacao": 1, "periodoTipo": 1, "dataCadastro": "2022-07-20 20:53:07.000000", "taxaMatricula": "9.99"}
-     
-   ]
+   {
+      "id":"1",
+      "Valor":"99.99",
+      "Periodo":"12",
+      "Descricao":"Ativo",
+      "IdSituacao":"1",
+      "IdPeriodoTipo":"1",
+      "TaxaMatricula":"19.99"
+   },
+   {
+      "id":"2",
+      "Valor":"79.99",
+      "Periodo":"1",
+      "Descricao":"Ativo",
+      "IdSituacao":"1",
+      "IdPeriodoTipo":"1",
+      "TaxaMatricula":"19.99"
+   },
+   {
+      "id":"3",
+      "Valor":"79.99",
+      "Periodo":"1",
+      "Descricao":"Ativo",
+      "IdSituacao":"1",
+      "IdPeriodoTipo":"1",
+      "TaxaMatricula":"19.99"
+   },
+   {
+      "id":"4",
+      "Valor":"20.00",
+      "Periodo":"1",
+      "Descricao":"Ativo",
+      "IdSituacao":"1",
+      "IdPeriodoTipo":"1",
+      "TaxaMatricula":"0.00"
+   },
+   {
+      "id":"7",
+      "Valor":"200.00",
+      "Periodo":"3",
+      "Descricao":"Inativo",
+      "IdSituacao":"2",
+      "IdPeriodoTipo":"2",
+      "TaxaMatricula":"0.00"
+   },
+   {
+      "id":"8",
+      "Valor":"1999.99",
+      "Periodo":"36",
+      "Descricao":"Ativo",
+      "IdSituacao":"1",
+      "IdPeriodoTipo":"1",
+      "TaxaMatricula":"0.00"
+   },
+   {
+      "id":"9",
+      "Valor":"199.99",
+      "Periodo":"6",
+      "Descricao":"Ativo",
+      "IdSituacao":"1",
+      "IdPeriodoTipo":"1",
+      "TaxaMatricula":"9.99"
+   }
+]
 }
